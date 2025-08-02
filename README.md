@@ -1,1 +1,1 @@
-'''This is a text encryption and decryption program'''
+# This is a text encryption and decryption program
